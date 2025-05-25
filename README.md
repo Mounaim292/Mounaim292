@@ -7,10 +7,6 @@
 
 - 📫 Reach me at: [abdelmounaimtarniche@gmail.com](mailto:abdelmounaimtarniche@gmail.com)
 
-## Connect with Me
-
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/abdelmounaimtarniche)
-
 ## Machine Learning
 
 <p align="left">
