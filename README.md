@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:DA2C43,100:FFFAF0&reversal=true&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=50:DB2742,200:E0E2DB&textBg=false&section=header" alt="header"/> 
 
 <div align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=4000&duration=4000&pause=500&color=E66042&width=435&lines=Abdelmounaim+Tarniche;Machine+learning+engineer;Data-Driven+solutions+enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=E0E2DB&width=435&lines=Hello%2C+I'm+Abdelmounaim+Tarniche;Machine+learning+engineer;Data-driven+solutions+enthusiast" alt="Typing SVG" /></a>
 </div>  
   
 
@@ -58,4 +58,4 @@ Let's connect & collaborate 🤝
 </a>  
 </div>  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:DA2C43,100:FFFAF0&reversal=true&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=50:DB2742,200:E0E2DB&textBg=false&section=footer" alt="footer"/>
