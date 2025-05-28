@@ -45,6 +45,7 @@ Let's connect & collaborate 🤝
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,azure,aws,gcp,linux,terraform&perline=4" />
 </div>
+</td><td valign="top" width="33%">
 
 ### WebDev
 <div align="center">  
