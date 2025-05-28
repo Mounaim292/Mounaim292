@@ -30,18 +30,14 @@ Let's connect & collaborate 🤝
 
 ### ML/DL  
 <div align="center">  
-<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
-<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
-<a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" /></a>  
-<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,keras,opencv,matplotlib,scikitlearn&perline=4" />
 </div>
 
 </td><td valign="top" width="33%">
 
 
 
-### Databases & Data Manipulation  
+### DB & Data analysis  
 <div align="center">  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,spark,kafka,hadoop,redis&perline=4" />
 </div>
