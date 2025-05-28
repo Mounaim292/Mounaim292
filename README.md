@@ -52,7 +52,7 @@ Let's connect & collaborate 🤝
 
 
 ## Connect with me  
-I'm always open to connecting with other professionals in the financial and tech communities! Feel free to reach out if you're interested in collaborating on projects or just want to chat about the latest machine learning technology.
+I'm always open to connecting with other professionals in the AI and tech communities! Feel free to reach out if you're interested in collaborating on projects or just want to chat about the latest machine learning technology.
 <div align="center">
 <a href="https://linkedin.com/in/abdelmounaim-tarniche-214aa5255" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
