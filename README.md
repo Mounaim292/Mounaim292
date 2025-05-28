@@ -43,9 +43,7 @@ Let's connect & collaborate 🤝
 
 ### Databases & Data Manipulation  
 <div align="center">  
-<a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,spark,kafka,redis&perline=4" />
-  </a>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,spark,kafka,hadoop,redis&perline=4" />
 </div>
 </td><td valign="top" width="33%">
 
@@ -53,9 +51,7 @@ Let's connect & collaborate 🤝
 
 ### DevOps  
 <div align="center">  
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,azure,aws,gcp,linux,terraform&perline=4" />
-  </a>
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,azure,aws,gcp,linux,terraform&perline=4" />
 </div>
 
 </td></tr></table>  
