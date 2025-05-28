@@ -1,12 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:DA2C43,100:FFFAF0&reversal=true&section=header" alt="header"/> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=4000&duration=4000&pause=500&color=E66042&width=435&lines=Abdelmounaim+Tarniche;Machine+learning+engineer;Data-Driven+solutions+enthusiast" alt="Typing SVG" /></a>
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=4000&duration=4000&pause=500&color=E66042&width=435&lines=Abdelmounaim+Tarniche;Machine+learning+engineer;Data-Driven+solutions+enthusiast" alt="Typing SVG" /></a>
 </div>  
-  
-
-### <div align="center">I'm Abdelmounaim, a Machine Learning engineer 🤖 </div>  
   
 
 ## About me :   
