@@ -57,28 +57,28 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
   <div class="skill-block">
     <h3>Data Engineering & Analysis</h3>
     <div>
-      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,pyspark,kafka,hadoop,redis&perline=4" />
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,pyspark,kafka,hadoop,redis" />
     </div>
   </div>
 
   <div class="skill-block">
     <h3>DevOps</h3>
     <div>
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,terraform&perline=4" />
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,terraform" />
     </div>
   </div>
 
   <div class="skill-block">
     <h3>Web Development</h3>
     <div>
-      <img src="https://skillicons.dev/icons?i=flask,django,javascript,react&perline=4" />
+      <img src="https://skillicons.dev/icons?i=flask,django,javascript,react" />
     </div>
   </div>
 
   <div class="skill-block">
     <h3>Cloud & Infrastructure</h3>
     <div>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=3" />
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
     </div>
   </div>
 
