@@ -39,7 +39,7 @@ Let's connect & collaborate 🤝
 
 ### DB & Data analysis  
 <div align="center">  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,spark,kafka,hadoop,redis&perline=4" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,pyspark,kafka,hadoop,redis&perline=4" />
 </div>
 </td><td valign="top" width="33%">
 
