@@ -46,6 +46,10 @@ Let's connect & collaborate 🤝
 <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,azure,aws,gcp,linux,terraform&perline=4" />
 </div>
 
+### WebDev
+<div align="center">  
+<img src="https://skillicons.dev/icons?i=flask,django,javascript,react&perline=4" />
+</div>
 </td></tr></table>  
 
 <br/>  
