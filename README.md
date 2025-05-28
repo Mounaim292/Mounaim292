@@ -7,10 +7,7 @@
 
 ## About me :   
   
-
-Passionate AI/ML engineer with a strong background in deep learning, computer vision, and natural language processing.
- Skilled in Python, TensorFlow, PyTorch, and various ML libraries. Excellent problem-solving, research, and collaboration
- abilities.  
+Hello there! I'm an AI/ML engineer with a passion for deep learning, computer vision, and NLP. I enjoy building smart, efficient systems using tools like Python, TensorFlow, and PyTorch. Always curious, always creating.  
   
 
 <br/>  
