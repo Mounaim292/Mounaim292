@@ -18,48 +18,71 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
 
 ## My Skill Set
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>ML/DL</h3>
-      <div align="center">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,opencv,matplotlib,scikitlearn" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3>LLM ToolKit</h3>
-      <div align="center">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,ollama" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Data Engineering & Analysis</h3>
-      <div align="center">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,pyspark,kafka,hadoop,redis&perline=4" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>DevOps</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,terraform&perline=4" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Web Development</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=flask,django,javascript,react&perline=4" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3>Cloud & Infrastructure</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=3" />
-      </div>
-    </td>
-  </tr>
-</table>
+<style>
+  .skills-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .skill-block {
+    flex: 1 1 calc(33% - 20px);
+    min-width: 250px;
+  }
+  .skill-block h3 {
+    text-align: center;
+  }
+  .skill-block div {
+    text-align: center;
+    margin-top: 10px;
+  }
+</style>
+
+<div class="skills-container">
+
+  <div class="skill-block">
+    <h3>ML/DL</h3>
+    <div>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,opencv,matplotlib,scikitlearn" />
+    </div>
+  </div>
+
+  <div class="skill-block">
+    <h3>LLM Toolkit</h3>
+    <div>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,ollama" />
+    </div>
+  </div>
+
+  <div class="skill-block">
+    <h3>Data Engineering & Analysis</h3>
+    <div>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,pyspark,kafka,hadoop,redis&perline=4" />
+    </div>
+  </div>
+
+  <div class="skill-block">
+    <h3>DevOps</h3>
+    <div>
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,terraform&perline=4" />
+    </div>
+  </div>
+
+  <div class="skill-block">
+    <h3>Web Development</h3>
+    <div>
+      <img src="https://skillicons.dev/icons?i=flask,django,javascript,react&perline=4" />
+    </div>
+  </div>
+
+  <div class="skill-block">
+    <h3>Cloud & Infrastructure</h3>
+    <div>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=3" />
+    </div>
+  </div>
+
+</div>
 
 
 
