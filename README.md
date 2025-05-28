@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:DA2C43,100:FFFAF0&reversal=true&section=header" alt="header"/> 
 
-<div align="center">
+<div align="left">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Raleway&weight=4000&duration=4000&pause=500&color=E66042&width=435&lines=Abdelmounaim+Tarniche;Machine+learning+engineer;Data-Driven+solutions+enthusiast" alt="Typing SVG" /></a>
 </div>  
   
