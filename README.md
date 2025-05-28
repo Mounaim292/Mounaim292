@@ -41,7 +41,7 @@ Let's connect & collaborate 🤝
 
 
 
-### Data  
+### Databases & Data Manipulation  
 <div align="center">  
 <a href="https://skillicons.dev">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,spark,kafka,redis&perline=4" />
