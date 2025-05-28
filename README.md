@@ -30,7 +30,7 @@ Let's connect & collaborate 🤝
 
 ### ML/DL  
 <div align="center">  
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,keras,opencv,matplotlib,scikitlearn,sparkml&perline=4" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,opencv,matplotlib,scikitlearn&perline=4" />
 </div>
 
 </td><td valign="top" width="33%">
