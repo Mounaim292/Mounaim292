@@ -18,49 +18,50 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
 
 ## My Skill Set
 
-<div >
+<div>
 
-  <div >
+  <div>
     <h3>ML/DL</h3>
     <div>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,opencv,matplotlib,scikitlearn" />
     </div>
   </div>
 
-  <div class="skill-block">
+  <div>
     <h3>LLM Toolkit</h3>
     <div>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,ollama" />
     </div>
   </div>
 
-  <div class="skill-block">
+  <div>
     <h3>Data Engineering & Analysis</h3>
     <div>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,pyspark,kafka,hadoop,redis" />
     </div>
   </div>
 
-  <div class="skill-block">
+  <div>
+    <h3>Cloud & Infrastructure</h3>
+    <div>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+    </div>
+  </div>
     <h3>DevOps</h3>
     <div>
       <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,terraform" />
     </div>
   </div>
-
-  <div class="skill-block">
+  <div>
+      <div>
     <h3>Web Development</h3>
     <div>
       <img src="https://skillicons.dev/icons?i=flask,django,javascript,react" />
     </div>
   </div>
 
-  <div class="skill-block">
-    <h3>Cloud & Infrastructure</h3>
-    <div>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
-    </div>
-  </div>
+
+
 
 </div>
 
