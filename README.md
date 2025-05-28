@@ -29,7 +29,7 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
     <td valign="top" width="33%">
       <h3>LLM</h3>
       <div align="center">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph,langchain,ollama&perline=4" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,ollama&perline=4" />
       </div>
     </td>
     <td valign="top" width="33%">
