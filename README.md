@@ -10,7 +10,7 @@
 
 Passionate AI/ML engineer with a strong background in deep learning, computer vision, and natural language processing.
  Skilled in Python, TensorFlow, PyTorch, and various ML libraries. Excellent problem-solving, research, and collaboration
- abilities. Seeking a challenging role to develop cutting-edge AI solutions.  
+ abilities.  
   
 
 <br/>  
