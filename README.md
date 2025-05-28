@@ -44,7 +44,7 @@ Let's connect & collaborate 🤝
 ### Data  
 <div align="center">  
 <a href="https://skillicons.dev">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgreSQL,mongodb,mysql,pandas,aws,gcp,linux,terraform&perline=4" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,aws,gcp,linux,terraform&perline=4" />
   </a>
 </div>
 </td><td valign="top" width="33%">
