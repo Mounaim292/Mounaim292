@@ -13,9 +13,6 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
  abilities. Seeking a challenging role to develop cutting-edge AI solutions.  
   
 
-Let's connect & collaborate 🤝  
-  
-
 <br/>  
 
 
