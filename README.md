@@ -51,6 +51,7 @@ Let's connect & collaborate 🤝
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=flask,django,javascript,react&perline=4" />
 </div>
+</td><td valign="top" width="33%">
 </td></tr></table>  
 
 <br/>  
