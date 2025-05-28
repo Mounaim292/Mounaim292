@@ -57,9 +57,5 @@ Let's connect & collaborate 🤝
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:DA2C43,100:FFFAF0&reversal=true&section=footer" alt="footer"/>
