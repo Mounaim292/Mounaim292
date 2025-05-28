@@ -18,26 +18,6 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
 
 ## My Skill Set
 
-<style>
-  .skills-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    gap: 20px;
-  }
-  .skill-block {
-    flex: 1 1 calc(33% - 20px);
-    min-width: 250px;
-  }
-  .skill-block h3 {
-    text-align: center;
-  }
-  .skill-block div {
-    text-align: center;
-    margin-top: 10px;
-  }
-</style>
-
 <div class="skills-container">
 
   <div class="skill-block">
