@@ -23,13 +23,13 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
     <td valign="top" width="33%">
       <h3>ML/DL</h3>
       <div align="center">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,opencv,matplotlib,scikitlearn&perline=4" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,opencv,matplotlib,scikitlearn" />
       </div>
     </td>
     <td valign="top" width="33%">
       <h3>LLM ToolKit</h3>
       <div align="center">
-        <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,ollama,weave&perline=4" />
+        <img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,huggingface,ollama" />
       </div>
     </td>
     <td valign="top" width="33%">
@@ -55,7 +55,7 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
     <td valign="top" width="33%">
       <h3>Cloud & Infrastructure</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux&perline=4" />
+        <img src="https://skillicons.dev/icons?i=aws,azure,gcp&perline=3" />
       </div>
     </td>
   </tr>
