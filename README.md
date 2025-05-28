@@ -20,30 +20,42 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <h3>ML/DL</h3>
       <div align="center">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,opencv,matplotlib,scikitlearn&perline=4" />
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="33%">
       <h3>LLM</h3>
       <div align="center">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=langgraph,langchain,ollama&perline=4" />
       </div>
     </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>DB & Data Analysis</h3>
+    <td valign="top" width="33%">
+      <h3>Data Engineering & Analysis</h3>
       <div align="center">
         <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,pyspark,kafka,hadoop,redis&perline=4" />
       </div>
     </td>
-    <td valign="top" width="50%">
-      <h3>DevOps & WebDev</h3>
+  </tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h3>DevOps</h3>
       <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,azure,aws,gcp,linux,terraform,flask,django,javascript,react&perline=6" />
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,terraform&perline=4" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Web Development</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=flask,django,javascript,react&perline=4" />
+      </div>
+    </td>
+    <td valign="top" width="33%">
+      <h3>Cloud & Infrastructure</h3>
+      <div align="center">
+        <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux&perline=4" />
       </div>
     </td>
   </tr>
