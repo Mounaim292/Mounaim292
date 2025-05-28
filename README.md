@@ -20,7 +20,7 @@ Let's connect & collaborate 🤝
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 
 
 
@@ -29,7 +29,7 @@ Let's connect & collaborate 🤝
 <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,opencv,matplotlib,scikitlearn&perline=4" />
 </div>
 
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -37,7 +37,7 @@ Let's connect & collaborate 🤝
 <div align="center">  
 <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mongodb,mysql,pandas,pyspark,kafka,hadoop,redis&perline=4" />
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 
 
@@ -45,13 +45,12 @@ Let's connect & collaborate 🤝
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,azure,aws,gcp,linux,terraform&perline=4" />
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 
 ### WebDev
 <div align="center">  
 <img src="https://skillicons.dev/icons?i=flask,django,javascript,react&perline=4" />
 </div>
-</td><td valign="top" width="33%">
 </td></tr></table>  
 
 <br/>  
