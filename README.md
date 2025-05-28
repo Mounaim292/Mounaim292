@@ -18,9 +18,9 @@ Passionate AI/ML engineer with a strong background in deep learning, computer vi
 
 ## My Skill Set
 
-<div class="skills-container">
+<div >
 
-  <div class="skill-block">
+  <div >
     <h3>ML/DL</h3>
     <div>
       <img src="https://go-skill-icons.vercel.app/api/icons?i=python,tensorflow,pytorch,opencv,matplotlib,scikitlearn" />
