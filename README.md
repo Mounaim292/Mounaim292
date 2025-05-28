@@ -58,7 +58,7 @@ Let's connect & collaborate 🤝
 ### DevOps  
 <div align="center">  
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,azure" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,azure,aws,gcp,linux&perline=3" />
   </a>
 </div>
 
